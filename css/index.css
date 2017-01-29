@@ -1,0 +1,9 @@
+body{
+  margin:0;
+  background:url(../img/mavs.jpg);
+}
+
+.jumbotron {
+  background: rgba(84, 85, 86,0.2);
+
+}

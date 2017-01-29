@@ -1,0 +1,11 @@
+.profile-pic {
+	max-width: 50%;
+}
+
+.card{
+	border: solid #cccccc 1px;
+	border-radius: 4px;
+	padding: 5px;
+	margin-bottom:10px;
+	box-shadow: 3px 3px 3px #cccccc;
+}
